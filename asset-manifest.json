@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/retrospective-app/static/css/main.d4913e93.chunk.css",
+    "main.js": "/retrospective-app/static/js/main.b6bbd4c0.chunk.js",
+    "main.js.map": "/retrospective-app/static/js/main.b6bbd4c0.chunk.js.map",
+    "runtime-main.js": "/retrospective-app/static/js/runtime-main.c97195db.js",
+    "runtime-main.js.map": "/retrospective-app/static/js/runtime-main.c97195db.js.map",
+    "static/js/2.f6ff52c0.chunk.js": "/retrospective-app/static/js/2.f6ff52c0.chunk.js",
+    "static/js/2.f6ff52c0.chunk.js.map": "/retrospective-app/static/js/2.f6ff52c0.chunk.js.map",
+    "index.html": "/retrospective-app/index.html",
+    "precache-manifest.022431a4812d30a58337cb90751f8c84.js": "/retrospective-app/precache-manifest.022431a4812d30a58337cb90751f8c84.js",
+    "service-worker.js": "/retrospective-app/service-worker.js",
+    "static/css/main.d4913e93.chunk.css.map": "/retrospective-app/static/css/main.d4913e93.chunk.css.map",
+    "static/js/2.f6ff52c0.chunk.js.LICENSE": "/retrospective-app/static/js/2.f6ff52c0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c97195db.js",
+    "static/js/2.f6ff52c0.chunk.js",
+    "static/css/main.d4913e93.chunk.css",
+    "static/js/main.b6bbd4c0.chunk.js"
+  ]
+}
