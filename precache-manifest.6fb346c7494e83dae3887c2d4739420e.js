@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5494fb0d63971ca8aeafaf3677aa329",
+    "revision": "d78c32e0039f89743b9edf0c8d96a2c0",
     "url": "/retrospective-client/index.html"
   },
   {
-    "revision": "657afdb4878511d3a4d7",
+    "revision": "ec998a44bc1bec3bbee1",
     "url": "/retrospective-client/static/css/main.d4913e93.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retrospective-client/static/js/2.f6ff52c0.chunk.js.LICENSE"
   },
   {
-    "revision": "657afdb4878511d3a4d7",
-    "url": "/retrospective-client/static/js/main.c373052b.chunk.js"
+    "revision": "ec998a44bc1bec3bbee1",
+    "url": "/retrospective-client/static/js/main.ab8eeeed.chunk.js"
   },
   {
     "revision": "565672c70f64c38300ad",
