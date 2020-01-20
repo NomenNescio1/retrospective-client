@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/retrospective-client/precache-manifest.5bdecb45fc137e513f5856d06923af82.js"
+  "/retrospective-client/precache-manifest.2847e036a400e3cca25b8e08371ea4a2.js"
 );
 
 self.addEventListener('message', (event) => {
